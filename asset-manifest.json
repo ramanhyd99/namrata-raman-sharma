@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/namrata-raman-sharma/static/css/main.fef2af2e.css",
-    "main.js": "/namrata-raman-sharma/static/js/main.3bb35721.js",
-    "static/js/787.0f8d78ff.chunk.js": "/namrata-raman-sharma/static/js/787.0f8d78ff.chunk.js",
-    "static/media/heart.png": "/namrata-raman-sharma/static/media/heart.7a377b0d9a15e22358af.png",
-    "static/media/logo.svg": "/namrata-raman-sharma/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/namrata-raman-sharma/index.html",
-    "main.fef2af2e.css.map": "/namrata-raman-sharma/static/css/main.fef2af2e.css.map",
-    "main.3bb35721.js.map": "/namrata-raman-sharma/static/js/main.3bb35721.js.map",
-    "787.0f8d78ff.chunk.js.map": "/namrata-raman-sharma/static/js/787.0f8d78ff.chunk.js.map"
+    "main.css": "/namrata-weds-raman/static/css/main.fef2af2e.css",
+    "main.js": "/namrata-weds-raman/static/js/main.75b67040.js",
+    "static/js/787.0f8d78ff.chunk.js": "/namrata-weds-raman/static/js/787.0f8d78ff.chunk.js",
+    "static/media/heart.png": "/namrata-weds-raman/static/media/heart.7a377b0d9a15e22358af.png",
+    "static/media/logo.svg": "/namrata-weds-raman/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/namrata-weds-raman/index.html",
+    "main.fef2af2e.css.map": "/namrata-weds-raman/static/css/main.fef2af2e.css.map",
+    "main.75b67040.js.map": "/namrata-weds-raman/static/js/main.75b67040.js.map",
+    "787.0f8d78ff.chunk.js.map": "/namrata-weds-raman/static/js/787.0f8d78ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fef2af2e.css",
-    "static/js/main.3bb35721.js"
+    "static/js/main.75b67040.js"
   ]
 }
